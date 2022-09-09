@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Katherine Enright"
+  name             : &name "Katherine Enright"
   avatar           : "Enright-Photo.jpg"
   bio              : "Studying history of science, museum studies, digital humanities at Harvard College"
   location         : "Boston|Singapore"
