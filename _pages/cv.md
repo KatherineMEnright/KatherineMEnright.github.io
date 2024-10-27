@@ -9,10 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<br><br>
+
+<h3>Education </h3>
 ======
 * A.B. in History and Anthropology, _Summa cum laude_, Harvard College, 2023
 * MPhil in Digital Humanities, Distinction, University of Cambridge, 2024
+<t> Gates Cambridge Scholar</t>
 * Ph.D in History, University of Cambridge, 2028 (expected)
 
 Work experience
