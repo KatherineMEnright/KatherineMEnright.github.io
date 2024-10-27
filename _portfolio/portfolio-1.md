@@ -1,6 +1,6 @@
 ---
 title: "Biodiversity Stories"
-excerpt: "Cultural Environmental Histories of Introduced Species in Singapore and Southeast Asia <br/> <img src='/images/Biodiversity Stories homepage.jpeg'>"
+excerpt: "Cultural Environmental Histories of Introduced Species in Singapore and Southeast Asia <br/> [![](images/Biodiversity Stories homepage.jpeg')](https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/)>"
 collection: portfolio
 ---
 
