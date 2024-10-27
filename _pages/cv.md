@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<br><br>
-
 <h3>Education </h3>
 ======
 * A.B. in History and Anthropology, _Summa cum laude_, Harvard College, 2023
