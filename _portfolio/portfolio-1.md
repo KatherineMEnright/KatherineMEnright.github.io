@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Biodiversity Stories"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Biodiversity Stories homepage.jpeg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+As a Research Assistant at Yale-NUS College in 2023, I created the website <b> Biodiversity Stories: Cultural Environmental Histories of Introduced Species in Singapore and Southeast Asia </b>. I worked with eight student authors to develop 16 interactive visual essays that showcase the rich histories and contemporary lives of non-native species, using Juncture, a platform developed by JSTOR Labs and Dumbarton Oaks.
+![](https://www.juncture-digital.org/Digital-Scholarship-NUS-Libraries/biodiversitystories/)
